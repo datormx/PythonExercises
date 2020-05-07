@@ -1,0 +1,1 @@
+print('Platzi cuenta con cursos de:\nDesarrollo e Ingeniería\nDiseño y UX\nMarketing\nNegocios y Emprendimiento\nProducción Audiovisual\nCrecimiento Profesional')
